@@ -1,7 +1,6 @@
 :root {
     --main-white: #f0f0f0;
     --main-red: #be3144;
-    --main-blue: #45567d;
     --main-gray: #303841;
 }
 
@@ -23,7 +22,7 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
-    background: var(--main-red);
+    background: #344955;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
     z-index: 1;
 }
@@ -158,7 +157,7 @@ span {
 
 .about-container .greeting-container .title {
     display: inline-block;
-    margin: 1rem 0.5rem;
+    margin: 2.5rem 0.5rem;
     animation: rubberBand;
     animation-duration: 8s;
     animation-delay: 5.5s;
@@ -196,7 +195,7 @@ h1.greeting {
 }
 
 #projects {
-    background-color: var(--main-blue);
+    background-color: #50727B;
     padding: 4rem 1rem;
     text-align: center;
 }
