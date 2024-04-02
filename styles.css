@@ -25,6 +25,7 @@ nav {
     background: #344955;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
     z-index: 1;
+    padding: 0 20px;
 }
 ul.links a:hover {
     opacity: .5;
@@ -166,9 +167,7 @@ span {
 
 .about-container .about-me {
     position: relative;
-    top: -100px;
     left: 10px;
-    right: 30px;
     text-align: left;
 }
 .about-container .about-me h3 {
@@ -187,8 +186,8 @@ span {
     align-items: center;
     flex-wrap: wrap;
     gap: 3px;
-    padding: 0 20px;
-    margin-top: -50px;
+    padding: 50px 0;
+    margin-top: -100px;
 }
 
 .certificates {
@@ -197,7 +196,7 @@ span {
 }
 
 h1 {
-    font: 700 3rem 'Poppins', sans-serif;
+    font: 700 2.5rem 'Poppins', sans-serif;
     color: var(--main-white);
 }
 
