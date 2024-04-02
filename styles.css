@@ -196,7 +196,7 @@ span {
 }
 
 h1 {
-    font: 700 2.5rem 'Poppins', sans-serif;
+    font: 700 2rem 'Poppins', sans-serif;
     color: var(--main-white);
 }
 
@@ -358,6 +358,9 @@ h2 {
     }
     h1.greeting {
         margin-bottom: 10px;
+    }
+    h1 {
+        font: 700 3rem 'Poppins', sans-serif;
     }
 } 
 
