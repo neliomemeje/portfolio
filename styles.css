@@ -25,7 +25,7 @@ nav {
     background: #344955;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
     z-index: 1;
-    padding: 0 22px 0 0;
+    padding: 0 25px 0 0;
 }
 ul.links a:hover {
     opacity: .5;
